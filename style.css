@@ -1,0 +1,68 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image:url(img/73400662_Brazil27s-Gremio-soccer-team-celebrates-winning-the-Copa-Libertadores-championship-after.jpg);
+    height: 320px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    display: table;
+}
+
+header h1{
+    color: white;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+main h3{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+main p{
+margin-bottom: 20px;
+margin-top: 12px;
+margin-left: 40px;
+}
+
+main img{
+height: 350px;
+width: 700px;
+margin-left: 40px;
+}
+
+footer section{
+    background-color: rgb(68, 68, 236);
+    color: white;
+    width: 33%;
+    display: block;
+    float: left;
+}
+
+footer section h5{
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+footer section img{
+    height: 200px;
+    width: 300px;
+    display: flex;
+}
+
+footer section button{
+    height: 35px;
+    width: 120px;
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    margin-top: 10px;
+}
