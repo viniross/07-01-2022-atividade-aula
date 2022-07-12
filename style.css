@@ -25,6 +25,7 @@ header h1{
 main h3{
     margin-top: 40px;
     margin-left: 40px;
+    color: rgb(206, 170, 13);
 }
 
 main p{
@@ -40,7 +41,7 @@ margin-left: 40px;
 }
 
 footer section{
-    background-color: rgb(68, 68, 236);
+    background-color: rgb(40, 103, 185);
     color: white;
     width: 33%;
     display: block;
@@ -58,11 +59,12 @@ footer section img{
     display: flex;
 }
 
-footer section button{
+footer section button:hover{
     height: 35px;
     width: 120px;
-    background-color: white;
+    background-color: black;
     border: none;
     border-radius: 30px;
     margin-top: 10px;
+    color: white;
 }
